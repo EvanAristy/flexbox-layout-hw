@@ -1,0 +1,65 @@
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    text-align: right;
+}
+
+#nav > h1{
+    color: #6c7886;
+    font-size: 3rem;
+}
+
+#matress > img{
+    width: 100%;
+}
+
+#products{
+    text-align: center;
+}
+
+#first2 > img{
+    width: 63%;
+}
+
+#last2 > img{
+    width: 30%;
+}
+
+img{
+    margin: 20px;
+}
+
+#new{
+    text-align: center;
+}
+
+#newpics{
+    display: flex;
+    justify-content: center;
+}
+
+#newpics > img{
+    width: 15%;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: #6c7886;
+}
+
+a{
+    color: #6c7886;
+}
+
+#model{
+    color: red;
+    font-size: 2rem;
+}
